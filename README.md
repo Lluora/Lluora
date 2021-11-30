@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 ![Lluora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lluora&count_private=true&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lluora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!-- ![Lluora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lluora&count_private=true&show_icons=true&bg_color=45deg,d299c2,fe9d7&title_color=ffffff&text_color=ffffff) -->
