@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![trophy](https://github-profile-trophy.vercel.app/?username=haedal-uni)
+
 ![haedal-uni's GitHub stats](https://github-readme-stats.vercel.app/api?username=haedal-uni&count_private=true&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haedal-uni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
