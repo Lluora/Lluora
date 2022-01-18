@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=haedal-uni)-->
 
 ## Log (python, Spring)
-
-- python : 파이썬 강의 + 응용
-- [hello-spring](https://github.com/haedal-uni/hello-spring) : 스프링 입문 
-- [Algorithm](https://github.com/haedal-uni/Algorithm) : 초기 백준 알고리즘(python) → 프로그래머스 알고리즘(python)으로 진행
-- [spring](https://github.com/haedal-uni/spring) : spring 강의 실습 + 흐름 잡기
+### Repositories   
+- python : `python` 강의 + 응용
+- [hello-spring](https://github.com/haedal-uni/hello-spring) : `spring` 입문 
+- [Algorithm](https://github.com/haedal-uni/Algorithm) : 초기 백준 알고리즘(`python`) → 프로그래머스 알고리즘(`python`)으로 진행
+- [spring](https://github.com/haedal-uni/spring) : `spring` 강의 실습 + 흐름 잡기
 
 #### Camp
-- [Team14](https://github.com/haedal-uni/Team14) : 1, 2차 프로젝트 
-- [dangdang](https://github.com/haedal-uni/dangdang), [dangdang-front](https://github.com/haedal-uni/dangdang-front) : 3차 프로젝트 
-- [lecture](https://github.com/haedal-uni/lecture) : 타임어택 구현 테스트(spring, python) + 강의 응용(python) + 1차 프로젝트 진행과정 정리(python) 
+- [Team14](https://github.com/haedal-uni/Team14) : 1, 2차 프로젝트(`python`)
+- [dangdang](https://github.com/haedal-uni/dangdang), [dangdang-front](https://github.com/haedal-uni/dangdang-front) : 3차 프로젝트 (`spring`)
+- [lecture](https://github.com/haedal-uni/lecture) : 타임어택 구현 테스트(`spring`, `python`) + 강의 응용(`python`) + 1차 프로젝트 진행과정 정리(`python`) 
 
 <br>
 
