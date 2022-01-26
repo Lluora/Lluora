@@ -30,8 +30,24 @@ Here are some ideas to get you started:
 
 ![haedal-uni's GitHub stats](https://github-readme-stats.vercel.app/api?username=haedal-uni&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haedal-uni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
+### Stack
+<!-- <p align="center"> -->
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a> -->
+<!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>  -->
 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a> 
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
+<!-- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>  -->
+ 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+          
 
-<!-- ![Lluora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lluora&count_private=true&show_icons=true&bg_color=45deg,d299c2,fe9d7&title_color=ffffff&text_color=ffffff) -->
+<!-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
+
+<!-- </p> -->
+
