@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [spring](https://github.com/haedal-uni/spring) : `spring` 강의 실습 + 흐름 잡기
 
 #### Camp
-- [Team14](https://github.com/haedal-uni/Team14) : 1, 2차 프로젝트(`python`)
+- [Team14](https://github.com/haedal-uni/Team14) : 1, 2차 프로젝트(`python`, `flask`)
 - [dangdang](https://github.com/haedal-uni/dangdang), [dangdang-front](https://github.com/haedal-uni/dangdang-front) : 3차 프로젝트 (`spring`)
 - [lecture](https://github.com/haedal-uni/lecture) : 타임어택 구현 테스트(`spring`, `python`) + 강의 응용(`python`) + 1차 프로젝트 진행과정 정리(`python`) 
 
