@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## Log (python, Spring)
+## Log (python, Flask, Spring)
 ### Repositories   
 - [python](https://github.com/haedal-uni/python) : `python` 강의 + 응용
 - [hello-spring](https://github.com/haedal-uni/hello-spring) : `spring` 입문 
