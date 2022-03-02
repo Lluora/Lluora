@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ## Log (python, Flask, Spring)
 ### Repositories   
 - [python](https://github.com/haedal-uni/python) : `python` 강의 + 응용
+  - [python 프로젝트 정리](https://github.com/haedal-project/python) : instagram 자동화, 알림 봇(코로나 확진자 수, 쿠팡 최저가), 단어구름
 - [hello-spring](https://github.com/haedal-uni/hello-spring) : `spring` 입문 
 - [Algorithm](https://github.com/haedal-uni/Algorithm) : 초기 백준 알고리즘(`python`) → 프로그래머스 알고리즘(`python`)으로 진행
 - [spring](https://github.com/haedal-uni/spring) : `spring` 강의 실습 + 흐름 잡기
