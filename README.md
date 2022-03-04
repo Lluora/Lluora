@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=haedal-uni)-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaedal-uni&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-**My portfolio** 👉🏻 [![Tech Blog Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)](https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaedal-uni&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-portfolio-black?style=flat-square&logo=notion&link=https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)](https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)</a>                    
  
             
 ## Stack
