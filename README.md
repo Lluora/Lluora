@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Log (python, Flask, Spring)
+* ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
 ### Repositories   
 - [python](https://github.com/haedal-uni/python) : `python` 강의 + 응용
   - [python 프로젝트 정리](https://github.com/haedal-project/python) : instagram 자동화, 알림 봇(코로나 확진자 수, 쿠팡 최저가), 단어구름
