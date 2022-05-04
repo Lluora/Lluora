@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## Stack
 <!-- <p align="center"> -->
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a> 
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>   
+<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>      
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
 
 <!-- <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a> -->
@@ -32,24 +32,25 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
-<br>
-
+<br>                           
+        
 ## Log (python, Flask, Spring)
 * ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
+         
 ### Repositories   
 - [python](https://github.com/haedal-uni/python) : `python` 강의 + 응용
   - [python 프로젝트 정리](https://github.com/haedal-project/python) : instagram 자동화, 알림 봇(코로나 확진자 수, 쿠팡 최저가), 단어구름
 - [hello-spring](https://github.com/haedal-uni/hello-spring) : `spring` 입문 
 - [Algorithm](https://github.com/haedal-uni/Algorithm) : 초기 백준 알고리즘(`python`) → 프로그래머스 알고리즘(`python`)으로 진행
 - [spring](https://github.com/haedal-uni/spring) : `spring` 강의 실습 + 흐름 잡기
-
+                                 
 #### Camp
 - [Team14](https://github.com/haedal-uni/Team14) : 1, 2차 프로젝트(`python`, `flask`)
 - [dangdang](https://github.com/haedal-uni/dangdang), [dangdang-front](https://github.com/haedal-uni/dangdang-front) : 3차 프로젝트 (`spring`)
 - [lecture](https://github.com/haedal-uni/lecture) : 타임어택 구현 테스트(`flask`, `spring`) + 강의 응용(`python`) + 1차 프로젝트 진행과정 정리(`python`) 
-
-<br>
-
+                 
+<br>          
+              
 ![haedal-uni's GitHub stats](https://github-readme-stats.vercel.app/api?username=haedal-uni&count_private=true&show_icons=true&theme=dracula)
 
           
