@@ -32,11 +32,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
-<br>                           
+<br>                 
+
+### *현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho)
+   
+<br>    
         
 ## Log (python, Flask, Spring)
 * ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
-         
+
 ### Repositories   
 - [python](https://github.com/haedal-uni/python) : `python` 강의 + 응용
   - [python 프로젝트 정리](https://github.com/haedal-project/python) : instagram 자동화, 알림 봇(코로나 확진자 수, 쿠팡 최저가), 단어구름
