@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br>                 
 
-### *현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho)
+### *현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
    
 <br>    
         
