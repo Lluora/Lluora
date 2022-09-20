@@ -53,8 +53,10 @@ https://haedal-uni.github.io/   `new`
 - [spring](https://github.com/haedal-uni/spring) : `spring` 강의 실습 + 흐름 잡기
                                  
 #### Camp
-- [Team14](https://github.com/haedal-uni/Team14) : 1, 2차 프로젝트(`python`, `flask`)
-- [dangdang](https://github.com/haedal-uni/dangdang), [dangdang-front](https://github.com/haedal-uni/dangdang-front) : 3차 프로젝트 (`spring`)
+- [Team14](https://github.com/haedal-uni/Team14) : 1, 2차 프로젝트(`python`, `flask`) 
+  - backend 4명 || 역할 : 팀장 || 기능 구현 : 장소 추천 기능, 리뷰 수정/삭제, 좋아요 횟수제한 및 취소
+- [dangdang](https://github.com/haedal-uni/dangdang), [dangdang-front](https://github.com/haedal-uni/dangdang-front) : 3차 프로젝트 (`spring`) 
+  - backend 3명 || 역할 : 팀장 || 기능 구현 : 글 업로드(사진 업로드, 강아지 종류 선택, 글 작성, 위치 입력)      
 - [lecture](https://github.com/haedal-uni/lecture) : 타임어택 구현 테스트(`flask`, `spring`) + 강의 응용(`python`) + 1차 프로젝트 진행과정 정리(`python`) 
                  
 <br>          
