@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-portfolio-black?style=flat-square&logo=notion&link=https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)](https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)</a>                     -->
 
 ## Blog
-#### https://haedal-uni.github.io/   `new` 
-#### https://lu-delight.tistory.com/                
+#### ⭐ https://haedal-uni.github.io/ ⭐   `new` 
+##### https://lu-delight.tistory.com/                
 
 <br>
 
