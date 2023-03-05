@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-portfolio-black?style=flat-square&logo=notion&link=https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)](https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)</a>                     -->
 
 ## Blog
-#### ⭐ https://haedal-uni.github.io/ ⭐   `new` 
+#### ⭐ https://haedal-uni.github.io/ ⭐ 
 ##### https://lu-delight.tistory.com/                
 
 <br>
@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
 
-<!-- <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></a> -->
-<!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>  -->
-<!-- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>  -->
- 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
@@ -45,33 +41,8 @@ Here are some ideas to get you started:
 ### *현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
    
 <br>    
-        
-## Log (python, Flask, Spring)
+       
 * ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
 
-### Repositories   
-- [python](https://github.com/haedal-uni/python) : `python` 강의 + 응용
-  - [python 프로젝트 정리](https://github.com/haedal-project/python) : instagram 자동화, 알림 봇(코로나 확진자 수, 쿠팡 최저가), 단어구름
-- [hello-spring](https://github.com/haedal-uni/hello-spring) : `spring` 입문 
-- [Algorithm](https://github.com/haedal-uni/Algorithm) : 초기 백준 알고리즘(`python`) → 프로그래머스 알고리즘(`python`)으로 진행
-- [spring](https://github.com/haedal-uni/spring) : `spring` 강의 실습 + 흐름 잡기
-                                 
-#### Camp
-- [Team14](https://github.com/haedal-uni/Team14) : 1, 2차 프로젝트(`python`, `flask`) 
-  - backend 4명 || 역할 : 팀장 || 기능 구현 : 장소 추천 기능, 리뷰 수정/삭제, 좋아요 횟수제한 및 취소
-- [dangdang](https://github.com/haedal-uni/dangdang), [dangdang-front](https://github.com/haedal-uni/dangdang-front) : 3차 프로젝트 (`spring`) 
-  - backend 3명 || 역할 : 팀장 || 기능 구현 : 글 업로드(사진 업로드, 강아지 종류 선택, 글 작성, 위치 입력)      
-- [lecture](https://github.com/haedal-uni/lecture) : 타임어택 구현 테스트(`flask`, `spring`) + 강의 응용(`python`) + 1차 프로젝트 진행과정 정리(`python`) 
-                 
-<br>          
-              
-![haedal-uni's GitHub stats](https://github-readme-stats.vercel.app/api?username=haedal-uni&count_private=true&show_icons=true&theme=dracula)
 
-          
-
-
-
-<!-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
-
-<!-- </p> -->
 
