@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-portfolio-black?style=flat-square&logo=notion&link=https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)](https://soyeon-haedal-uni.notion.site/hae-dal-a030c5b4367b4d66a144f7196fb348ec)</a>                     -->
 
 ## Blog
-#### ⭐ https://haedal-uni.github.io/ ⭐ 
-##### https://lu-delight.tistory.com/                
+#### 2022.07 ~ ⭐ https://haedal-uni.github.io/ ⭐ 
+##### 2021.09 ~  https://lu-delight.tistory.com/               
 
 <br>
 
@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 <br>                 
 
-### 현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
-#### sub project : [socket](https://github.com/haedal-uni/socket) (Spring / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)
+## 현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
+### sub project : [socket](https://github.com/haedal-uni/socket) (Spring / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)
    
 <br>    
        
-* ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
+#### ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
 
 
 
