@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 ## 현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
 ### sub project : [socket](https://github.com/haedal-uni/socket) (Spring / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)
-   
-<br>    
-       
+      
 #### ***flask***, ***spring***, ***개인 프로젝트*** 정리용 repository 👉🏻 [haedal-project](https://github.com/haedal-project)
 
+<br>  
 
+![haedal-uni's GitHub stats](https://github-readme-stats.vercel.app/api?username=haedal-uni&count_private=true&show_icons=true&theme=dracula)
 
