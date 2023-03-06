@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 <br>                 
 
-### *현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
+### 현재 프로젝트 : [***dal-cho***](https://github.com/dal-cho) (Spring/MySQL)
+#### sub project : [socket](https://github.com/haedal-uni/socket) (Spring / MySQL / WebSocket + stomp + sockJs / SSE / OAuth2)
    
 <br>    
        
